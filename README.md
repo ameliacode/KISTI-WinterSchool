@@ -1,2 +1,3 @@
-# KISTI-SejongUni-WinterSchool
-연구실에서 하라고 해서 하는 거 
+## KISTI 세종대학교 빅데이터 · AI 겨울학교
+
+### Curriculumn
